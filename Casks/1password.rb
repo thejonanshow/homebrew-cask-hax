@@ -19,7 +19,7 @@ cask "1password" do
   conflicts_with cask: "homebrew/cask-versions/1password-beta"
   depends_on macos: ">= :high_sierra"
 
-  app "1Password.app"
+  app "1Password\ 7.app"
 
   zap trash: [
     "~/Library/Application Scripts/2BUA8C4S2C.com.1password*",
