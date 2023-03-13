@@ -3,7 +3,7 @@ cask "1password" do
 
   version "7.9.9"
   sha256 arm:   "f74e03f3abbc63eee3b2379a56b826595c1d022f3906890677dd463c977ac5ed",
-         intel: "64103c6deddf75c5b53cd6f314f2ab3beee730422517e439f5ecc8b417c09e3d"
+         intel: "59dfae0d8bf008f473843c30f1f47c3c914cd72cd462c9d184340aac8d5b072c"
 
   url "https://c.1password.com/dist/1P/mac#{version.major}/1Password-#{version}.zip"
   name "1Password"
