@@ -1,7 +1,7 @@
 cask "1password" do
   arch arm: "aarch64", intel: "x86_64"
 
-  version "8.10.1"
+  version "7.9.9"
   sha256 arm:   "f74e03f3abbc63eee3b2379a56b826595c1d022f3906890677dd463c977ac5ed",
          intel: "64103c6deddf75c5b53cd6f314f2ab3beee730422517e439f5ecc8b417c09e3d"
 
