@@ -5,7 +5,7 @@ cask "1password" do
   sha256 arm:   "f74e03f3abbc63eee3b2379a56b826595c1d022f3906890677dd463c977ac5ed",
          intel: "64103c6deddf75c5b53cd6f314f2ab3beee730422517e439f5ecc8b417c09e3d"
 
-  url "https://downloads.1password.com/mac/1Password-#{version}-#{arch}.zip"
+  url "https://c.1password.com/dist/1P/mac#{version.major}/1Password-#{version}.zip"
   name "1Password"
   desc "Password manager that keeps all passwords secure behind one password"
   homepage "https://1password.com/"
